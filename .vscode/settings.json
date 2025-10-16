@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "SUMCUBES.C": "cpp",
+        "PRIMEORCOMPOSITE.C": "cpp",
+        "PRIME.C": "cpp",
+        "TERMS.C": "cpp"
+    }
+}
