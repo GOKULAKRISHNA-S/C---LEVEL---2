@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main ()
 {
-    float num , i , i2 , sum = 0.0 ;
+    float num , i , sum = 0.0 ;
     printf("ENTER N TERM : ");
     scanf("%f",&num);
     if ( num <= 0 )
