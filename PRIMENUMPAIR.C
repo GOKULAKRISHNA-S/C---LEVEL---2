@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main ()
 {
     int start , end ;
@@ -36,4 +35,5 @@ int main ()
     }
 }
     
+
 
